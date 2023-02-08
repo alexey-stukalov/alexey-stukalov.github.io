@@ -45,7 +45,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
+#permalink: /blog/:slug
 timezone: Russia/Moscow
 future: false
 
@@ -55,11 +55,11 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
+#Blog: /blog
 
 # Add general links to site pages here
-links:
-  Resume: /assets/resume.pdf
+#links:
+#  Resume: /assets/resume.pdf
   
 
 # Add links for more focus here

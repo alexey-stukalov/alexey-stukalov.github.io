@@ -3,22 +3,42 @@ layout: default
 title: Hello
 ---
 
+### 1. В поиске Яндекс ищем "услуги мосрег", переходим на сайт "Портал государственных и муниципальных услуг..."
 
-## An easy to use, minimal, text focused Jekyll theme
+<img src="/assets/images/1.jpeg" width="80%">
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+### 2. Справа сверху нажимаем кнопку "Войти"
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+<img src="/assets/images/2.jpeg" width="80%">
 
-**Stop worrying about the style, focus on your writing.**
+### 3. Далее нажимаем на кнопку "Авторизоваться"
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+<img src="/assets/images/3.jpeg" width="80%">
 
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+### 4. Вводим одно из: "Телефон / Email / СНИЛС" и пароль от сервиса госуслуг, нажимаем синюю кнопку "Авторизоваться"
+
+<img src="/assets/images/4.jpeg" width="80%">
+
+### 5. Возможно у Вас этого не будет, если есть — выбираем "Частное лицо"
+
+<img src="/assets/images/5.jpeg" width="80%">
+
+### 6. В поле "Чем мы можем быть полезны?" вводим "Предоставление земельных участков без проведения торгов"
+
+<img src="/assets/images/6.jpeg" width="80%">
+
+### Нажимаем на услугу "Предоставление земельных участков без проведения торгов"
+
+<img src="/assets/images/7.jpeg" width="80%">
+
+### 
+
+<img src="/assets/images/8.jpeg" width="80%">
+
+### 
+
+<img src="/assets/images/9.jpeg" width="80%">
+
+### 
+
+<img src="/assets/images/10.jpeg" width="80%">
